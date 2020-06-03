@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+## 欢迎来到我的博客
 
-You can use the [editor on GitHub](https://github.com/swarm413/swarm413.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+我是一名计算机爱好者，来自中国。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+这个博客是用来了解GITHUB功能以及记录自己生活与技能的网页。
+### 请注意
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+如果你希望联系到我，请关注我的github账户或者添加我的QQ与微信。
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+安得广厦千万间
+大辟天下寒士俱欢颜
+风雨不动安如山
+呜呼
+何时眼前突兀现此屋
+吾庐独破受冻死
+亦足
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### 目前的技能
 
-### Jekyll Themes
+技术栈:HTML,css,javascript,react,node.js,express.js,mongodb,webpack,gulp
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/swarm413/swarm413.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### 联系方式
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+swarm413.github.com
